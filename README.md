@@ -1,6 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project with Sass (Scss) bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
+Run the following command to create a new project with this Starter:
+
+```
+yarn create next-app [project-name] -e https://github.com/hcsvnt/next-sass-starter
+# or
+npx create-next-app [project-name] -e https://github.com/hcsvnt/next-sass-starter
+```
 
 First, run the development server:
 
